@@ -7,47 +7,47 @@ Direct3D:
     VRAM:     2026 MB
     Driver:   15.200.1045.0
 Begin MonoManager ReloadAssembly
-Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\Circus RoboFighting_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\Circus RoboFighting_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\Circus RoboFighting_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\Circus RoboFighting_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\Circus RoboFighting_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\Circus RoboFighting_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\Circus RoboFighting_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\Circus RoboFighting_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\Circus RoboFighting_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\Circus RoboFighting_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\Circus RoboFighting_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\Circus RoboFighting_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\Circus RoboFighting_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\Circus RoboFighting_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\Circus RoboFighting_Data\Managed\DatabaseControl.dll (this message is harmless)
-Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\Circus RoboFighting_Data\Managed\DatabaseControl.dll into Unity Child Domain
-- Completed reload, in  0.093 seconds
-Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\Circus RoboFighting_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\Circus RoboFighting_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\DatabaseControl.dll (this message is harmless)
+Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\DatabaseControl.dll into Unity Child Domain
+- Completed reload, in  0.788 seconds
+Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\System.dll (this message is harmless)
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initialized touch support.
-UnloadTime: 2.395295 ms
+UnloadTime: 1.738415 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 26c8 -> priority: 1 
+  Thread -> id: 1f90 -> priority: 1 
 Logged in as tahahussein
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.909336 ms
+UnloadTime: 3.171058 ms
 
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 854.
-Total: 0.851888 ms (FindLiveObjects: 0.096222 ms CreateObjectMapping: 0.035923 ms MarkObjects: 0.700926 ms  DeleteObjects: 0.018389 ms)
+Total: 0.972914 ms (FindLiveObjects: 0.085530 ms CreateObjectMapping: 0.032501 ms MarkObjects: 0.830077 ms  DeleteObjects: 0.023948 ms)
 
 MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Creating Room : dbfdgnn with room for 6 players.
+Creating Room : gdfgbbf with room for 6 players.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -56,14 +56,684 @@ MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequ
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.965359 ms
+UnloadTime: 3.950244 ms
 tahahussein has joined!
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 
 Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1309.
-Total: 1.983463 ms (FindLiveObjects: 0.130862 ms CreateObjectMapping: 0.070135 ms MarkObjects: 1.584461 ms  DeleteObjects: 0.197148 ms)
+Total: 1.453170 ms (FindLiveObjects: 0.121881 ms CreateObjectMapping: 0.050890 ms MarkObjects: 1.121737 ms  DeleteObjects: 0.158232 ms)
+
+Remaining bullets: 19
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 18
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reloading...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 19
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 18
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reloading...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon HD 8850M (ID=0x6823)
+    Vendor:   ATI
+    VRAM:     2026 MB
+    Driver:   15.200.1045.0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\DatabaseControl.dll (this message is harmless)
+Loading D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\DatabaseControl.dll into Unity Child Domain
+- Completed reload, in  0.063 seconds
+Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\GitHubGeneral\UNITY\BACK_UPs\CircusRoboFighting\WINDOWS_DEMO\v2\Circus RoboFighting_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.779470 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 77c -> priority: 1 
+Logged in as Toreeto
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.658584 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 854.
+Total: 1.245757 ms (FindLiveObjects: 0.123592 ms CreateObjectMapping: 0.095366 ms MarkObjects: 1.003277 ms  DeleteObjects: 0.022665 ms)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient Join :https://mm.unet.unity3d.com/json/reply/JoinMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.822376 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1117.
+Total: 1.338558 ms (FindLiveObjects: 0.120170 ms CreateObjectMapping: 0.083392 ms MarkObjects: 0.978901 ms  DeleteObjects: 0.155666 ms)
+
+Toreeto has joined!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 19
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 18
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 90 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 90 health.
+ 
+(Filename: P:/buialdslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 5 )1
+ 
+has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 80 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 70 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 80 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 70 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 60 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 70 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 50 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 40 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 60 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 50 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 30 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 20 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 30 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 10 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 20 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 0 health.
+ 
+(FilenaPel C:/buildslave/unyey/build/artifa1c hegener.e /c
+oFiolernatime Ce:/bBuidinsl.gen.cpip /Luind/: 5t1f)ct
+
+s/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 is DEAD !
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 10 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 0 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 is DEAD !
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 respawned
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Syncing: [KILLS]3/[DEATHS]3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Syncing: [KILLS]4/[DEATHS]3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to send command for object without authority.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 respawned
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UserAccountManager+<sendSendDataRequest>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UserAccountManager+<sendSendDataRequest>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Remaining bullets: 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 90 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 80 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 90 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 70 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 80 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 60 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 70 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 50 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 70 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 50 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generateP/laymon/1 has been shotind
+in
+gs.gennacpp: Li/be: ldsla
+v
+e/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 40 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 40 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reloading...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 30 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 20 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 30 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 20 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 19
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 18
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 10 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 0 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 is DEAD !
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 10 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 now has 0 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 is DEAD !
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 has been shot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaining bullets: 14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 respawned
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to send command for object without authority.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 respawned
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Syncing: [KILLS]4/[DEATHS]3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Syncing: [KILLS]4/[DEATHS]4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropConnectionRequest
  
@@ -74,10 +744,30 @@ MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropCon
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.199144 ms
+UnloadTime: 3.207409 ms
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 861.
-Total: 1.727725 ms (FindLiveObjects: 0.037205 ms CreateObjectMapping: 0.033357 ms MarkObjects: 0.746257 ms  DeleteObjects: 0.910477 ms)
+
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 867.
+Total: 2.696361 ms (FindLiveObjects: 0.085530 ms CreateObjectMapping: 0.047041 ms MarkObjects: 1.218815 ms  DeleteObjects: 1.344545 ms)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UserAccountManager+<sendSendDataRequest>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UserAccountManager+<sendSendDataRequest>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
 
 MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
  
@@ -87,9 +777,27 @@ MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchR
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-MatchMakingClient Join :https://mm.unet.unity3d.com/json/reply/JoinMatchRequest
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+User logged out!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.047325 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 866.
+Total: 1.025943 ms (FindLiveObjects: 0.080826 ms CreateObjectMapping: 0.031646 ms MarkObjects: 0.847183 ms  DeleteObjects: 0.065858 ms)
 
 MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropConnectionRequest
  
@@ -99,6 +807,16 @@ MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropCon
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.236061 ms
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 867.
+Total: 6.981460 ms (FindLiveObjects: 0.192016 ms CreateObjectMapping: 0.148823 ms MarkObjects: 2.714323 ms  DeleteObjects: 3.924585 ms)
+
 MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -111,23 +829,13 @@ MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchR
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-MatchMakingClient Join :https://mm.unet.unity3d.com/json/reply/JoinMatchRequest
+User logged out!
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropConnectionRequest
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.656018 ms
 
-MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropConnectionRequest
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 866.
+Total: 2.994009 ms (FindLiveObjects: 0.176621 ms CreateObjectMapping: 0.126158 ms MarkObjects: 2.484672 ms  DeleteObjects: 0.204418 ms)
 
